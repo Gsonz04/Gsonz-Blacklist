@@ -1,4 +1,4 @@
-# Title: Gsonz-Blacklist/list
+# Title: Gsonz-Blacklist/list.txt
 
 audacity.de
 www.audacity.de
@@ -9,3 +9,5 @@ d3p8zr0ffa9t17.cloudfront.net
 graph.facebook.com
 8q97nr-launches.appsflyersdk.com	
 graph-fallback.facebook.com	
+adclick.g.doubleclick.net
+ad.doubleclick.net
