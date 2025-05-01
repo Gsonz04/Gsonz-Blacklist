@@ -23,6 +23,7 @@ adclick.g.doubleclick.net
 ad.doubleclick.net
 graph.instagram.com
 ad-assets.futurecdn.net
+graph-fallback.instagram.com
  
 ck.getcookiestxt.com
  eu1.clevertap-prod.com
