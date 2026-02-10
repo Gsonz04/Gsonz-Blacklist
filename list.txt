@@ -31,3 +31,4 @@ ms.applvn.com
 sts.applovin.com
 ms4.applovin.com
 prod-mediate-events.applovin.com
+jmail.com
